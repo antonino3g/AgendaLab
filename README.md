@@ -23,3 +23,34 @@ Files and README: https://drive.google.com/drive/folders/0BwbX0lyDIr21SHpsNGgwdj
 ### Testar o Sistema no servidor externo Amazon
 
 Amazon Server: http://52.15.184.171:8080/agendalab/ (OFF)
+
+
+-----
+
+SGA 0.0.9v - Copyright © 2016 
+Created by: Antonino Praxedes and Andrades Anjos
+
+*Localhost Acess*
+
+War file
+AgendaLab.war.
+
+
+DateBase PostGreSQL
+
+How to restore BD?
+
+First, open your BD Clint (pgAdmin III or IV version), create "New 
+DateBase", name exactly: agenda_lab. After, right click and click in 
+"Restore...", Filename, select the backup file by SGA 
+(agenda_lab.backup).
+ 
+Settings: 
+
+agenda_lab
+user: postgres
+pwd:  postgres
+
+Enjoy it!
+
+------
