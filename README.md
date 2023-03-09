@@ -18,7 +18,7 @@ By: Antonino Praxedes | Andrade Anjos
 
 Video: https://drive.google.com/file/d/0BwbX0lyDIr21NkdLSTlKS3ZhbVk/view?usp=sharing&resourcekey=0-T6o0D3wVhg01JbtNf0rPNg
 
-Files and README: https://drive.google.com/drive/folders/0BwbX0lyDIr21SHpsNGgwdjNHaEk?usp=sharing
+Files and README: https://drive.google.com/drive/folders/0BwbX0lyDIr21SHpsNGgwdjNHaEk?resourcekey=0-2cScKgujVcWgDbiccSoClw&usp=sharing
 
 ### Testar o Sistema no servidor externo Amazon
 
